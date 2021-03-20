@@ -479,7 +479,7 @@ ul.minimal li a {
     .heading-title .small-desd span {
       color: #424242; }
   .heading-title p {
-    font-size: 14px;
+    font-size: 18px;
     color: #585858;
     margin-bottom: 0; }
 
@@ -580,17 +580,17 @@ ul.minimal li a {
     color: #fff; }
 
 .buttons-section .accent-btn {
-  background-color: #333399;
-  color: #fff; }
+  background-color: #ffff33;
+  color: #333333; }
   .buttons-section .accent-btn:hover {
-    background-color: #90BA55;
+    background-color: #333399;
     color: #fff;
     border-color: #fff; }
 
 .buttons-section .dark-btn {
-  background-color: transparent; }
+  background-color: #cc33cc; }
   .buttons-section .dark-btn:hover {
-    background-color: #ff9933;
+    background-color: #90BA55;
     color: #fff; }
 
 .buttons-section .dark-full-btn {
@@ -1552,7 +1552,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
     top: 0;
     right: 0;
     left: 0;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.6);
     z-index: 1; }
   .bg-white-section .container, .bg-white-section .container-fluid {
     position: relative;
@@ -1581,7 +1581,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
     top: 0;
     right: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.4); /*kilroy background transparency */
+    background-color: rgba(0, 0, 0, 0.0); /*kilroy background transparency */
     z-index: 1; }
   .bg-mask .container, .bg-mask .container-fluid {
     position: relative;
@@ -1653,7 +1653,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
 
 /*heading title big*/
 .heading-title-big {
-  font-size: 4.6875rem;
+  font-size: 3.8rem;
   font-family: "Roboto", sans-serif;
   font-weight: 900;
   text-transform: uppercase;
@@ -1677,7 +1677,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
 .description-slide {
   margin-top: 20px;
   color: #fff;
-  font-size: 0.9375rem;
+  font-size: 1.5rem;
   font-weight: 500;
   letter-spacing: 1px; }
   .description-slide span {
@@ -2035,7 +2035,7 @@ form.contact-form-bg input[type='submit'] {
   padding-bottom: 13px;
   line-height: 15px; }
   form.contact-form-bg input[type='submit']:hover {
-    background-color: #504645;
+    background-color: #489B8F;
     color: #fff;
     border-color: #fff; }
 
@@ -3384,7 +3384,7 @@ form .btn {
     line-height: 65px !important; }
   .icon-progress p {
     font-size: 18px;
-    margin-top: 10px;
+    margin-top: 0px;
     text-transform: uppercase;
     letter-spacing: 2px; }
 
@@ -3626,7 +3626,7 @@ form .btn {
 .item-testimonials {
   padding: 25px;
   text-align: center;
-  background-color: rgba(84, 74, 73, 0.35);
+  background-color: rgba(0, 0, 0, 0.35);
   -webkit-border-radius: 3px;
   border-radius: 3px;
   -webkit-transition: all ease-in-out .6s;
